@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <style>
+    .aperture-mark { stroke: #191917; }
+    @media (prefers-color-scheme: dark) {
+      .aperture-mark { stroke: #f4f2ee; }
+    }
+  </style>
+  <circle cx="50" cy="50" r="43.5" class="aperture-mark" stroke-width="7.5" />
+  <line x1="60.05" y1="32.6" x2="85.02" y2="75.84" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+  <line x1="39.95" y1="32.6" x2="89.89" y2="32.6" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+  <line x1="29.9" y1="50" x2="54.87" y2="6.76" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+  <line x1="39.95" y1="67.4" x2="14.98" y2="24.16" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+  <line x1="60.05" y1="67.4" x2="10.11" y2="67.4" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+  <line x1="70.1" y1="50" x2="45.13" y2="93.24" class="aperture-mark" stroke-width="7.5" stroke-linecap="round" />
+</svg>
